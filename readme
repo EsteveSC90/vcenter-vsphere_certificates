@@ -1,1 +1,10 @@
-readme
+readme:
+
+Script para renovar certificados vCenter - Los scripts son oficiales de Broadcom.
+
+Script para renovar certificados vCenter <= 6.5
+https://knowledge.broadcom.com/external/article/322249/replace-certificates-on-vcenter-server-u.html?utm_source=chatgpt.com
+
+Script para renovar certificados vCenter > 6.5
+https://knowledge.broadcom.com/external/article/385107/vcert-scripted-vcenter-expired-certific.html
+
