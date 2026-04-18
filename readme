@@ -8,4 +8,4 @@ https://knowledge.broadcom.com/external/article/322249/replace-certificates-on-v
 Script para renovar certificados vCenter > 6.5
 https://knowledge.broadcom.com/external/article/385107/vcert-scripted-vcenter-expired-certific.html
 
-Actualice en IB3 los certificados de vCenter 6.5 que quedaron todos caducados y se volvieron a renovar por 10 años con el vCert-6.1.1-20260401.zip
+Se actualizaron en IB3 los certificados de vCenter 6.5, que se encontraban completamente caducados, renovándolos con una validez de 10 años mediante el paquete vCert-6.1.1-20260401.zip.
